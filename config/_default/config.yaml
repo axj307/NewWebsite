@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title:  # Website name
-baseURL: 'https://sites.psu.edu/axj307' # Website URL
-#baseURL: 'https://amitjain.netlify.app' # Website URL
+#baseURL: 'https://sites.psu.edu/amitjain/' # Website URL
+baseURL: 'https://amitjain.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
