@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: New Website Amit # Website name
-baseURL: 'https://amitjain.netlify.app' # Website URL
+title:  # Website name
+baseURL: 'https://sites.psu.edu/axj307' # Website URL
+#baseURL: 'https://amitjain.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE

@@ -19,7 +19,7 @@ date_format: Jan 2006
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+#   Leave `date_end` empty if it's yo/Users/amitjain/Documents/GitHub/NewWebsite/content/home/experience.mdur current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
