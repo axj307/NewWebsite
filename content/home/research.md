@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan 2018
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,17 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's yo/Users/amitjain/Documents/GitHub/NewWebsite/content/home/experience.mdur current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: CASS Lab
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location:  The Pennsylvania State University
+    date_start: '2018-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Analysing
+            kmckck s
+            
+            
         * Modelling
         * Deploying
 
