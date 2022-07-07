@@ -6,21 +6,25 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Aerospace Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Pennsylvania State University
+    url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reachability Analysis
+  - Uncertainty quantification
+  - Uncertainty propagation
+  - Optimal Control
+  - Astrodynamics
+  - Optimization
+  
 
 # Education to show in About widget
 education:
@@ -51,7 +55,7 @@ social:
     link: https://github.com/axj307
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/amit-jain-821885a3
+    link: https://www.linkedin.com/in/amit-jain-821885a3/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
