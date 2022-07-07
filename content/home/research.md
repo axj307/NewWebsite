@@ -32,10 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-            kmckck s
-            
-            
+        * Analysing                        
         * Modelling
         * Deploying
 
