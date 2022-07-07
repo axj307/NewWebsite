@@ -74,7 +74,10 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-My name is Amit Jain and I am a PhD student in Aerospace Engineering at Penn State.
+
+I am a PhD student in the [Aerospace Engineering](https://www.aero.psu.edu) department at [The Pennsylvania State University](https://www.psu.edu). I am working with Dr. [Puneet Singla](https://www.aero.psu.edu/department/directory-detail-g.aspx?q=pxs433) at the Control and Analysis of Stochastic Systems [(CASS) lab](https://cass.psu.edu). I received my M.S. degree in Aerospace Engineering from The Pennsylvania State University in 2019 and my B.Tech degree in Aerospace Engineering from [PEC University of Technology](https://pec.ac.in), India in 2016. 
+
+My research interests are: reachability analysis, uncertainty quantification, uncertainty propagation, and optimal control. 
 
 
 
