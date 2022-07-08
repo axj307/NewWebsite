@@ -8,10 +8,10 @@ authors:
   - admin
   - Robert Ford
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+<!--# Author notes (optional)-->
+<!--author_notes:-->
+<!--  - 'Equal contribution'-->
+<!--  - 'Equal contribution'-->
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -29,10 +29,11 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, a computationally efficient approach is presented to enable onboard computation of reachability sets for the hypersonic re-entry problem. The main idea is to consider the bounded control variables as random variables and represent the reachability sets as the level sets of the state probability density function. A main advantage of such an approach is that it provide not only the boundary of the reachability set but it also characterizes the probability distribution of state variable due to variation in control input. The computation of state density function due to variation in control input at each time is made tractable by computing desired order statistical moments of state density function at each time. Conjugate Unscented Transform (CUT) algorithm is used to compute the moment generating function. Finally, a prototype model of the hypersonic re-entry problem is considered to show the efficacy and utility of the proposed ideas.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+<!--# Summary. An optional shortened abstract.-->
+<!--summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.-->
 
 tags: []
 
@@ -56,9 +57,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Reachability Analysis'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
