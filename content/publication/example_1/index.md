@@ -48,7 +48,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'example_1_ppt'
+url_slides: 'example_ppt'
 url_source: ''
 url_video: ''
 
