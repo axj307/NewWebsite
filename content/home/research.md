@@ -36,9 +36,7 @@ experience:
             aaaaa
         * **Stochastic reachability analysis for the hypersonic re-entry problem:** 
         aaaaa
-        
         * **Computationally Efficient Approach for Stochastic Reachability Set Analysis:** aaaa
-        
         * **An Optimal Trajectory Planning Based on Load Distribution for a Multi-lift System:** 
             * Developed an optimal trajectory planning method for a multi-lift system using direct and indirect collocation method
             * Applied direct collocation-based method to find a solution
