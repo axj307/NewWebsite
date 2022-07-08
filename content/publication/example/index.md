@@ -6,7 +6,9 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - D. Gueho
+  - P. Singla
+  - M. Akela
 
 # Author notes (optional)
 author_notes:
@@ -73,7 +75,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 ---
 
 <!--{{% callout note %}}-->
