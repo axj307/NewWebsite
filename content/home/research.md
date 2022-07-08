@@ -25,16 +25,17 @@ experience:
   - title: Research Assistant
     company: CASS Lab
     company_url: ''
-    company_logo: org-gc
+    company_logo: cass
     location: The Pennsylvania State University
     date_start: '2018-01-01'
     date_end: ''
     description: |1-
-        * **Stochastic Reachability Analysis using Sparse-Collocation method:** 
-            * Approximated the probability density function (pdf) of a general non-linear system using transformation of variables at any given instant of time
+        * **Stochastic Reachability Analysis using Sparse-Collocation Method:** 
+            * Reachability analysis of a general non-linear system is computed in the presence of uncertainties in the initial condition, control input and external disturbances 
+            * Computed the numerical solution of the transition probability density function (pdf) of a general non-linear system using transformation of variables
             * Dynamical system is propagated using the minimum number of collocation points, which are computed through the non-product quadrature method known as the Conjugate Unscented Transformation (CUT) method
             * Utilized minimum set of polynomial expansion as a convex optimization problem to find the sparse approximation solution
-        * **Stochastic reachability analysis for the hypersonic re-entry problem:** 
+        * **Stochastic Reachability Analysis for the Hypersonic Re-entry Problem:** 
             * Used CUT method to drive the uncertainty in control input to compute the reachability set for the hypersonic reentry model
             * Multi-dimensional expectation integrals are computed using CUT to get desired order statistical moments
             * Numerical results for the first and second order moments are computed for two different maneuvers and are verified using Monte Carlo (MC) simulations
