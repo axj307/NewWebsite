@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Reachability Analysis'
   focal_point: ''
   preview_only: false
 
@@ -67,6 +67,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - example
+  - example_copy
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
