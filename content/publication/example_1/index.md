@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2020-07-01T00:00:00Z'
+date: '2020-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,9 +32,6 @@ publication: 2020 AIAA SciTech Forum and Exposition, Orlando, FL
 
 abstract: The reachability set is defined as the collection of all states which can be traversed from arbitrary initial conditions due to the application of admissible control. Three different prob- abilistic approaches to compute the reachability sets for a class of discrete time nonlinear systems is discussed. The main idea of the probabilistic approach is to consider the bounded control variables as random variables and represent the reachability sets as the level sets of the state probability density function. In the first approach, the computation of the state density function due to variation in control input at each time is made tractable by computing the M- fold convolution of state density function at each time. To overcome the significant challenge of taking multi-dimension convolution of state density function, the second approach computes the probability density function using the Principle of Maximum Entropy (PME). The third approach utilizes the Conjugate Unscented Transform (CUT) method to curtail the combina- torial growth of samples. Finally, three numerical example problems are considered to show the efficacy and utility of the proposed ideas.
 
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -58,18 +55,18 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Reachability Analysis'
+  caption: 'Convolution Illustration'
   focal_point: ''
   preview_only: false
 
 ---
-
+<!---->
 <!--{{% callout note %}}-->
 <!--Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.-->
 <!--{{% /callout %}}-->
-<!---->
-<!--{{% callout note %}}-->
-<!--Create your slides in Markdown - click the _Slides_ button to check out the example.-->
-<!--{{% /callout %}}-->
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
 <!---->
 <!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).-->
