@@ -36,7 +36,11 @@ experience:
         
         * **Stochastic reachability analysis for the hypersonic re-entry problem:** 
         
-        * ** Computationally Efficient Approach for Stochastic Reachability Set Analysis:** 
+        * **Computationally Efficient Approach for Stochastic Reachability Set Analysis:** 
+        
+        * **An Optimal Trajectory Planning Based on Load Distribution for a Multi-lift System:** 
+            * Developed an optimal trajectory planning method for a multi-lift system using direct and indirect collocation method
+        
         
 
   - title: Professor of Semiconductor Physics
