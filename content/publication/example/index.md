@@ -24,13 +24,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: 2019 AAS/AIAA Space Flight Mechanics Meeting, Ka’anapali, Maui, HI
 
 abstract: In this paper, a computationally efficient approach is presented to enable onboard computation of reachability sets for the hypersonic re-entry problem. The main idea is to consider the bounded control variables as random variables and represent the reachability sets as the level sets of the state probability density function. A main advantage of such an approach is that it provide not only the boundary of the reachability set but it also characterizes the probability distribution of state variable due to variation in control input. The computation of state density function due to variation in control input at each time is made tractable by computing desired order statistical moments of state density function at each time. Conjugate Unscented Transform (CUT) algorithm is used to compute the moment generating function. Finally, a prototype model of the hypersonic re-entry problem is considered to show the efficacy and utility of the proposed ideas.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
