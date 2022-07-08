@@ -9,10 +9,6 @@ authors:
   - D Gueho
   - P Singla
 
-<!--# Author notes (optional)-->
-<!--author_notes:-->
-<!--  - 'Equal contribution'-->
-<!--  - 'Equal contribution'-->
 
 date: '2020-01-01T00:00:00Z'
 doi: ''
