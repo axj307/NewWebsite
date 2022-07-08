@@ -22,7 +22,6 @@ interests:
   - Uncertainty Quantification
   - Uncertainty Propagation
   - Optimal Control
-  - Astrodynamics
   - Optimization
   - Space Situational Awareness
   
@@ -73,8 +72,8 @@ highlight_name: true
 ---
 
 I am a PhD student in the [Aerospace Engineering](https://www.aero.psu.edu) department at [The Pennsylvania State University](https://www.psu.edu). I am working with Dr. [Puneet Singla](https://www.aero.psu.edu/department/directory-detail-g.aspx?q=pxs433) at the Control and Analysis of Stochastic Systems [(CASS) lab](https://cass.psu.edu). I received my M.S. degree in Aerospace Engineering from The Pennsylvania State University in 2019 and my B.Tech degree in Aerospace Engineering from [PEC University of Technology](https://pec.ac.in), India in 2016. 
-
-My research interests include reachability analysis, uncertainty quantification, uncertainty propagation, and optimal control of aerospace vehicles. 
+<!---->
+<!--My research interests include reachability analysis, uncertainty quantification, uncertainty propagation, and optimal control of aerospace vehicles. -->
 
 
 

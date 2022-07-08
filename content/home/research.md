@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: |1-
         * **Stochastic Reachability Analysis using Sparse-Collocation Method:** 
-            * Reachability analysis of a general non-linear system is computed in the presence of uncertainties in the initial condition, control input and external disturbances 
-            * Computed the numerical solution of the transition probability density function (pdf) of a general non-linear system using transformation of variables
-            * Dynamical system is propagated using the minimum number of collocation points, which are computed through the non-product quadrature method known as the Conjugate Unscented Transformation (CUT) method
+            * Reachability analysis of a general non-linear system is computed due to the presence of uncertainties in the initial condition, control input and external disturbances
+            * Collocation based method is used to approximate the transition probability density function (pdf) at any given time
+            * Utilized Sparse Approximation method to fit a surface around collocation points, which are computed through the non-product quadrature method known as the Conjugate Unscented Transformation (CUT) method
             * Utilized minimum set of polynomial expansion as a convex optimization problem to find the sparse approximation solution
         * **Stochastic Reachability Analysis for the Hypersonic Re-entry Problem:** 
-            * Used CUT method to drive the uncertainty in control input to compute the reachability set for the hypersonic reentry model
-            * Multi-dimensional expectation integrals are computed using CUT to get desired order statistical moments
-            * Numerical results for the first and second order moments are computed for two different maneuvers and are verified using Monte Carlo (MC) simulations
+            * Used CUT method to drive the uncertainty in the initial state and control input to compute the reachability set for the hypersonic reentry vehicle
+            * Multi-dimensional expectation integrals are computed using CUT quadrature to obtain statistical moments
+            * Numerical results are computed for two different maneuvers and are verified using Monte Carlo (MC) simulations
         * **Computationally Efficient Approach for Stochastic Reachability Set Analysis:** 
             * Formulated the problem of computing reachability set of a system in a probabilistic manner
             * Utilized the Convolution and Principle of Maximum Entropy (PME) techniques to find the pdf of a system at any given time
