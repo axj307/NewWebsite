@@ -32,9 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * **Analysing -**
-        * **Modelling -** 
-        * **Deploying -** 
+        * **Stochastic Reachability Analysis using Sparse-Collocation method:** 
+        
+        * **Stochastic reachability analysis for the hypersonic re-entry problem:** 
+        
+        * ** Computationally Efficient Approach for Stochastic Reachability Set Analysis:** 
+        
 
   - title: Professor of Semiconductor Physics
     company: University X
