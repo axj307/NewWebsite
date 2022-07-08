@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: CASS Lab
     company_url: ''
-    company_logo: cass
+    company_logo: psu
     location: The Pennsylvania State University
     date_start: '2018-01-01'
     date_end: ''
