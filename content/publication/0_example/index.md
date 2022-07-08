@@ -40,7 +40,7 @@ featured: true
 #   url: https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1
 
 url_pdf: ''
-url: 'https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1'
+<!--url: 'https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1'-->
 
 
 # Featured image
