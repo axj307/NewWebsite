@@ -37,10 +37,16 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: 
+#   url: http://example.org
 
 url_pdf: ''
-<!--url: 'https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1'-->
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 
 # Featured image
