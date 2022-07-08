@@ -37,9 +37,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1
+#   url: 
 
-url_pdf: ''
+url_pdf: 'https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1'
 
 
 # Featured image
@@ -51,12 +51,12 @@ image:
 
 ---
 
-<!--{{% callout note %}}-->
-<!--Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.-->
-<!--{{% /callout %}}-->
-<!---->
-<!--{{% callout note %}}-->
-<!--Create your slides in Markdown - click the _Slides_ button to check out the example.-->
-<!--{{% /callout %}}-->
-<!---->
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
 <!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).-->
