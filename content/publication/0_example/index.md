@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Stochastic Reachability Analysis for the Hypersonic Re-entry Problem'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -37,16 +37,10 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://www.scopus.com/record/display.uri?eid=2-s2.0-85072972537&origin=inward&txGid=3a1b931348aad418f0064bd4e0505c51&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
