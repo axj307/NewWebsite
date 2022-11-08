@@ -30,6 +30,11 @@ experience:
     date_start: '2018-01-01'
     date_end: ''
     description: |1-
+        * **Sparse-Collocation based Optimal Control of Vehicles using Hamilton-Jacobi Equation:** 
+            * Developed a Semi-Analytical (SA) methodology to obtain a canonical transformation that rectifies the flow of a dynamical system
+            * Solved the Two Point Boundary Value Problem (TPBVP) using Hamilton-Jacobi Equation (HJE)
+            * Utilized Sparse Approximation method to fit a surface around collocation points
+            * ●	Verified the SA solution with the open-loop solution using bvp4c in MATLAB
         * **Stochastic Reachability Analysis using Sparse-Collocation Method:** 
             * Reachability analysis of a general non-linear system is computed due to the presence of uncertainties in the initial condition, control input and external disturbances
             * Collocation based method is used to approximate the transition probability density function (pdf) at any given time
